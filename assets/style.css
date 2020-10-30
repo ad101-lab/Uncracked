@@ -1,0 +1,8 @@
+@tailwind base;
+
+@tailwind components;
+
+/* Put @apply CSS rules here */
+
+@tailwind utilities;
+
